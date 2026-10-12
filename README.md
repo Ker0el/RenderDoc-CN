@@ -82,7 +82,7 @@ context  <TAB>  source  <TAB>  translation
 如果你是付费购买的，请及时联系卖家申请退款。
 如果觉得汉化对你有帮助，欢迎充电支持 UP，感谢大家的支持！
 
-RenderDoc 版权归 Baldur Karlsson 所有，请支持正版。
+RenderDoc 版权归 Baldur Karlsson 所有。
 
 ## 星空汉化
 
