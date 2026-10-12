@@ -1,0 +1,4 @@
+# 一律 LF：词条表是纯文本数据，别让 git 在检出时换成 CRLF
+* text=auto eol=lf
+
+*.png binary
