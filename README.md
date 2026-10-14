@@ -12,10 +12,19 @@
 
 ## 下载
 
-到 [Releases](../../releases) 下载 **`RenderDoc-zh-CN-Full_v1.0.0.exe`**（约 80 MB）。
+到 [Releases](../../releases) 下载，两个版本**任选其一**：
 
-安装包**自带 RenderDoc 1.46 完整本体**，不需要事先安装 RenderDoc；
+| 安装包 | 说明 |
+|---|---|
+| **`StarDoc-Full_v1.0.0.exe`**（约 78 MB） | **自编译版**：整份 RenderDoc 1.46 从源码重新构建，命名统一为 `StarDoc`，界面已汉化 |
+| `RenderDoc-zh-CN-Full_v1.0.0.exe`（约 80 MB） | **汉化版**：保持官方构建与官方命名，只把界面换成中文 |
+
+两者都**自带 RenderDoc 1.46 完整本体**，不需要事先安装 RenderDoc；
 一路「下一步」装完就能用，界面直接是中文。
+
+- 自编译版里的模块名、配置文件名、命令行工具名都是 `StarDoc` 系
+  （`StarDoc.dll` / `StarDoc.json` / `StarDocCmd.exe`），功能与原版一致
+- 汉化版保持官方命名，便于和官方安装包混用
 
 > RenderDoc 是 MIT 许可的自由软件，允许自由分发。它的版权与许可声明随包附带
 > （装好后见安装目录下的 `LICENSE.rtf`）。
